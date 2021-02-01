@@ -1,4 +1,5 @@
 # Secret Network Contracts - SCRT
+Created following this tutorial: https://learn.figment.io/network-documentation/secret/secret-pathway
 
 ## First build the pacakge:
 * Node version required: 14.7
