@@ -1,0 +1,1 @@
+/home/murilo/Pessoal/secret-network-contract/target/wasm32-unknown-unknown/release/mysimplecounter.wasm: /home/murilo/Pessoal/secret-network-contract/src/contract.rs /home/murilo/Pessoal/secret-network-contract/src/lib.rs /home/murilo/Pessoal/secret-network-contract/src/msg.rs /home/murilo/Pessoal/secret-network-contract/src/state.rs
